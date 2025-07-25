@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8986,
+          35.994
+        ]
+      },
+      "properties": {
+        "name": "FaunaLabs",
+        "location": "Durham, NC",
+        "challenge": "ConX Tech Prize"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "name": "ASMSpotter",
+        "location": "Berlin, Germany",
+        "challenge": "Artisanal Mining Grand Challenge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2728,
+          37.8717
+        ]
+      },
+      "properties": {
+        "name": "Picoyune",
+        "location": "Berkeley, CA",
+        "challenge": "Artisanal Mining Grand Challenge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34878,
+          50.85045
+        ]
+      },
+      "properties": {
+        "name": "Matokeo",
+        "location": "Brussels, Belgium",
+        "challenge": "Artisanal Mining Grand Challenge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4592,
+          33.9908
+        ]
+      },
+      "properties": {
+        "name": "ACKBAR",
+        "location": "Venice, CA",
+        "challenge": "ConX Tech Prize"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0364,
+          38.895
+        ]
+      },
+      "properties": {
+        "name": "Sentinel",
+        "location": "Washington, D.C.",
+        "challenge": "CXL Innovation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.225,
+          22.315
+        ]
+      },
+      "properties": {
+        "name": "ScoutBots",
+        "location": "Kwun Tong, Hong Kong",
+        "challenge": "ConX Tech Prize"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95,
+          40.65
+        ]
+      },
+      "properties": {
+        "name": "Kintra Fibers",
+        "location": "Brooklyn, New York",
+        "challenge": "Microfiber Innovation Challenge"
+      }
+    }
+  ]
+}
