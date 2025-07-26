@@ -5,120 +5,140 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -78.8986,
-          35.994
-        ]
+        "coordinates": [-80.1918, 25.7617]
+      },
+      "properties": {
+        "name": "Precision Biodynamics",
+        "location": "Miami, FL",
+        "challenge": "ConX Tech Prize",
+        "description": "This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.8986, 35.994]
       },
       "properties": {
         "name": "FaunaLabs",
         "location": "Durham, NC",
-        "challenge": "ConX Tech Prize"
+        "challenge": "ConX Tech Prize",
+        "description": "This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.405,
-          52.52
-        ]
+        "coordinates": [13.405, 52.52]
       },
       "properties": {
         "name": "ASMSpotter",
         "location": "Berlin, Germany",
-        "challenge": "Artisanal Mining Grand Challenge"
+        "challenge": "Artisanal Mining Grand Challenge",
+        "description": "This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.2728,
-          37.8717
-        ]
+        "coordinates": [-122.2728, 37.8717]
       },
       "properties": {
         "name": "Picoyune",
         "location": "Berkeley, CA",
-        "challenge": "Artisanal Mining Grand Challenge"
+        "challenge": "Artisanal Mining Grand Challenge",
+        "description": "The Picayune Runabout is a portable vapor analyzer. It is highly sensitive and selective to mercury. The analyzer uses a novel spectroscopic method, plasmonic sensing, based on changes in visible light transmission of a gold amalgam nanoparticle film.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cc58e5a5df0f79383b_picoyune-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.34878,
-          50.85045
-        ]
+        "coordinates": [4.34878, 50.85045]
       },
       "properties": {
         "name": "Matokeo",
         "location": "Brussels, Belgium",
-        "challenge": "Artisanal Mining Grand Challenge"
+        "challenge": "Artisanal Mining Grand Challenge",
+        "description": "Matokeo (impact in Swahili) is a mobile-based technology solution to help monitor social, environmental and human rights hotspots in Eastern Congo and create more cost-effective and miner-centric monitoring systems. Miners and mining communities are recruited from a secured and anonymous database of phone numbers through different means.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cbbf4b436c84236fba_matokeo-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -118.4592,
-          33.9908
-        ]
+        "coordinates": [-118.4592, 33.9908]
       },
       "properties": {
         "name": "ACKBAR",
         "location": "Venice, CA",
-        "challenge": "ConX Tech Prize"
+        "challenge": "ConX Tech Prize",
+        "description": "The ACKBAR is a deep-sea camera trap that can be readily deployed from most vessels, allowing deep-sea exploration at scale. The deep-sea is facing significant conservation challenges from bottom trawling large nets on the seafloor, oil spills destroying fragile deep-sea corals, and emerging threats like mining of hydrothermal vent communities. Most deep-sea exploration occurs for extracting resources, but the deep-sea camera trap will provide an inexpensive and easy to deploy tool for conservationists to rapidly explore deep-sea habitats in order to better understand and protect them.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -77.0364,
-          38.895
-        ]
+        "coordinates": [-77.0364, 38.895]
       },
       "properties": {
         "name": "Sentinel",
         "location": "Washington, D.C.",
-        "challenge": "CXL Innovation"
+        "challenge": "CXL Innovation",
+        "description": "This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          114.225,
-          22.315
-        ]
+        "coordinates": [114.225, 22.315]
       },
       "properties": {
         "name": "ScoutBots",
         "location": "Kwun Tong, Hong Kong",
-        "challenge": "ConX Tech Prize"
+        "challenge": "ConX Tech Prize",
+        "description": "This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.95,
-          40.65
-        ]
+        "coordinates": [-73.95, 40.65]
       },
       "properties": {
         "name": "Kintra Fibers",
         "location": "Brooklyn, New York",
-        "challenge": "Microfiber Innovation Challenge"
+        "challenge": "Microfiber Innovation Challenge",
+        "description": "This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block. This is just a sample bio copy block.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.1964, 38.8304]
+      },
+      "properties": {
+        "name": "Spira",
+        "location": "Annandale, VA",
+        "challenge": "ConX Tech Prize",
+        "description": "Taste is the biggest issue in the usage of spirulina. By eliminating genetic pathways that cause bad tasting aromas, we can increase usage of this sustainable ingredient in the food supply. Spirulina Inc. was creating with the goal of using a CRISPR system to disrupt production of poor tasting compounds that lead to the current foul taste of spirulina.",
+        "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/688426cb9e179401453546f6_ackbar-map.jpg"
       }
     }
   ]
